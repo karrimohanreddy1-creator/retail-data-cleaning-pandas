@@ -1,0 +1,5 @@
+check,failed_rows,total_rows,failure_percent
+Missing order IDs,0,12,0.0
+Exact duplicate rows,1,12,8.33
+Missing discount percentages,1,12,8.33
+Missing order dates,1,12,8.33
